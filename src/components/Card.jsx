@@ -9,7 +9,7 @@ const Card = () => {
   console.log(data);
   return (
     <Container className="rounded-4 mt-4 p-4" style={{background:"#f48b29"}} type="button">
-      <h1 className="text-light my-4">Languages</h1>
+      <h1 className="text-danger my-4">Languages</h1>
       <Row className="g-3 justify-content-center">
       {data.map((lang,index) => {
         return (
