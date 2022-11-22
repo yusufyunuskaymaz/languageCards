@@ -2,21 +2,21 @@
 
 ### At the end of the project, i will have covered these topics;
 
-🛠 Props State and Component Logic
+🎯 Props State and Component Logic
 
-🛠 React Hooks 
+🎯 React Hooks 
  
-🛠 React Props
+🎯 React Props
 
-🛠 Manipulatation Data
+🎯 Manipulatation Data
 
-🛠 Conditional Rendering
+🎯 Conditional Rendering
 
-🛠 3rd Part Libraries 
+🎯 3rd Part Libraries 
 
-🛠 Media Query 
+🎯 Media Query 
 
-🛠 Deployment with Github Pages
+🎯 Deployment with Github Pages
 
 
 ### At the end of the project, i will be able to;
