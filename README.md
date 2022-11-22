@@ -1,6 +1,6 @@
 ![Animation](https://user-images.githubusercontent.com/99739515/176788009-8bc4213e-598f-41fb-8272-67137a425d8f.gif)
 
-### At the end of the project, i will have covered these topics;
+### I learned these;
 
 🎯 Props State and Component Logic
 
